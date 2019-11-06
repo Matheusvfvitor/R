@@ -1,0 +1,14 @@
+##Sample Function para substituição de strings em vetores, Listas e data_sets.
+
+mts_sub = function(data,new_val,old_val){
+  
+    if(is.character(data)==FALSE){
+        data = as.character(data)
+    }
+    
+  for (x in 1:length(data)){
+      data[x] = gsub(old_val,new_val,data[x]) 
+  }
+  return(data)
+         
+}
