@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588370894188.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "672077582",
+    "id" : "EC2D0A2C",
+    "lastKnownWriteTime" : 1589063259,
+    "last_content_update" : 1589063259804,
+    "path" : "/cloud/project/200501_Covid.R",
+    "project_path" : "200501_Covid.R",
+    "properties" : {
+        "cursorPosition" : "257,1",
+        "scrollLine" : "240",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
